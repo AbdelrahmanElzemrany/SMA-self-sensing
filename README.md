@@ -16,7 +16,7 @@ This project solves this problem by bypassing physical thermocouples entirely du
 
 ### 📊 Simulation Tracking Results at Baseline
 ![Robustness Analysis Results](TheOutputresultsAtbaseline.png)
-*Figure 2: Time-domain response under closed-loop evaluation displaying the System Input Signal (InputC), tracked output curvature errors, and optimized high-contrast thermal profile bound within a 400°C ceiling scale. Note that this baseline simulation is evaluated under the exact constant load condition used during the First-Order Reversal Curve (FORC) data extraction sequence.*
+*Figure 2: Time-domain response under closed-loop evaluation displaying the System Input Signal (InputC), tracked output curvature errors, and optimized high-contrast thermal profile. Note that this baseline simulation is evaluated under the exact constant load condition used during the First-Order Reversal Curve (FORC) data extraction sequence.*
 
 
 ---

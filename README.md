@@ -21,14 +21,6 @@ This project solves this problem by bypassing physical thermocouples entirely du
 ### 📊 Another Simulation Tracking Results at Baseline
 ![Robustness Analysis Results](AnotherBaselinetest.png)
 *Figure 3: Closed-loop time-domain response tracking performance. The temperature axis is optimized 
-### 📊 Simulation Tracking Results under High Load Conditions
-![Robustness Analysis Results](higherthanbaseline.png)
-*Figure 4: Time-domain response under higher-than-baseline load conditions.
-
-
-
-
----
 
 
 
